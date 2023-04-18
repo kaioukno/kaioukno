@@ -3,7 +3,7 @@
 
 ## Hobbies🎲
 - Faço parte da Team Noobmaster   <br>
-   Team Noobmaster [@Team-NoobMaster69](https://github.com/Team-NoobMaster69). E faço ROMs customizadas para o Motorola G6 Play | MSM8937
+   [@Team-NoobMaster69](https://github.com/Team-NoobMaster69). E faço ROMs customizadas para o Motorola G6 Play | MSM8937
 
 
 [![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kaioukno&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/kaioukno)
